@@ -2,10 +2,10 @@
 elas.'''
 
 # Recebendo as notas
-nota_1 = float(input("Dígite uma nota"))
-nota_2 = float(input("Dígite uma nota"))
-nota_3 = float(input("Dígite uma nota"))
-nota_4 = float(input("Dígite uma nota"))
+nota_1 = float(input("Dígite uma nota\n"))
+nota_2 = float(input("Dígite uma nota\n"))
+nota_3 = float(input("Dígite uma nota\n"))
+nota_4 = float(input("Dígite uma nota\n"))
 
 # Calcula a média
 media = (nota_1 + nota_2 + nota_3 + nota_4) / 4
