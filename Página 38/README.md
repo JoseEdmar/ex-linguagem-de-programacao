@@ -1,5 +1,5 @@
 Exercícios do livro linguagem de programação UniCesumar
-todos feitos por mim.
+
 Começando no 3xercício 3
 
 Exercício 3:
