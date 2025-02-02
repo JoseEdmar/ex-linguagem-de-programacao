@@ -1,6 +1,6 @@
 Exercícios do livro linguagem de programação UniCesumar
 
-Começando no 3xercício 3
+Começando no exercício 3
 
 Exercício 3:
 Escreva um programa que leia um número inteiro e apresente seu antecessor e
