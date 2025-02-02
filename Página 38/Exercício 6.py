@@ -9,4 +9,4 @@ num2 = float(input("Dígite outro número\n"))
 elevado = pow(num1, num2)
 
 # Imprime o resultado
-print(num1, "Elevado há", num2, "é:", elevado)
+print(num1, "Elevado a", num2, "é:", elevado)
