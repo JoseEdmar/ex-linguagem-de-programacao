@@ -18,3 +18,6 @@ do rendimento).
 Exercício 6:
 Escreva um programa que receba dois números, calcule e apresente o resultado do
 primeiro número elevado ao segundo.
+
+Exercício 7:
+7. Elabore um programa que calcula a área de um trapézio.
