@@ -1,4 +1,4 @@
-Exercícios do livro linguagem de programação UniCesumar
+Exercícios do livro linguagem de programação UniCesumar.
 
 Começando no exercício 3
 
