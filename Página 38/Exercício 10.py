@@ -22,3 +22,4 @@ if soma_pesos == 0:
 else:
     media = (num1 * p1 + num2 * p2 + num3 * p3) / soma_pesos
     print("A média ponderada é:", round(media, 2))
+    

@@ -14,3 +14,4 @@ perimetro = 2 * 3.14 * raio
 print("a area é", area)
 print("o perimetro é:", perimetro)
 
+
