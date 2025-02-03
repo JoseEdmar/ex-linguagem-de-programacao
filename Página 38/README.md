@@ -27,3 +27,7 @@ Escreva um programa que leia o nome de uma pessoa e imprima a seguinte mensagem,
 na tela: “Bem-vindo(a) à disciplina de Lógica de Programação e Algoritmos,
 <nome>”; onde o campo <nome> deve ser substituído pelo nome informado pelo
 usuário.
+
+Exercício 9:
+Escreva um programa que leia um número positivo inteiro e apresente o quadrado
+e a raiz quadrada desse número.
