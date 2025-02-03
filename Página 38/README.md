@@ -31,3 +31,9 @@ usuário.
 Exercício 9:
 Escreva um programa que leia um número positivo inteiro e apresente o quadrado
 e a raiz quadrada desse número.
+
+Exercício 10:
+Escreva um programa que receba três números e seus respectivos pesos, calcule e
+apresente a média ponderada entre eles. Observação: a média pode ser um dado
+numérico com casas decimais, portanto, prepare seu programa para que ele seja
+capaz de apresentar o resultado apropriado, quando necessário.
