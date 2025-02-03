@@ -11,3 +11,4 @@ area = (soma_das_bases * altura) / 2
 
 # Imprime o resultado
 print("A área do trapézio é:", area)
+
