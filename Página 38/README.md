@@ -37,3 +37,9 @@ Escreva um programa que receba três números e seus respectivos pesos, calcule 
 apresente a média ponderada entre eles. Observação: a média pode ser um dado
 numérico com casas decimais, portanto, prepare seu programa para que ele seja
 capaz de apresentar o resultado apropriado, quando necessário.
+
+Exercício 11:
+Escreva um programa que, dado o raio de um círculo, calcule a sua área e o perímetro.
+A área é a superfície do objeto, dada por 3,14 multiplicados pelo raio elevado ao
+quadrado. O perímetro é a medida do contorno do objeto dado por 2 multiplicados
+por 3,14, multiplicados, novamente, pelo raio.
