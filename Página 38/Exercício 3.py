@@ -11,4 +11,3 @@ numero_antecessor = num - 1
 # Exibe o resultado na tela
 print("O número antessesor10git init é:", numero_antecessor, "o número dígitado foi:", num, "o número sucessor é:", numero_sucessor)
 
-
