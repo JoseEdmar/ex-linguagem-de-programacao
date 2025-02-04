@@ -1,7 +1,7 @@
 # 1. Faça um programa que leia um número e informe se ele é divisível por cinco.
 
 # Recebe o número
-num = float(input("Dígite um número: "))
+num = int(input("Dígite um número: "))
 
 # Verifica divisibilidade por 5
 if num % 5 == 0:
