@@ -8,3 +8,7 @@ De 19 a 29 anos R$ 70,00
 De 30 a 45 anos R$ 90,00
 De 46 a 65 anos R$ 130,00
 Acima de 65 anos R$ 170,00
+
+Exercício 3: Construa um programa que receba a idade de uma pessoa e identifique sua classe
+eleitoral: não eleitor (menor que 16 anos de idade), eleitor obrigatório (entre 18 e
+65 anos) e eleitor facultativo (entre 16 e 18 e maior que 65).
