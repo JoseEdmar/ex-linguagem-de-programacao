@@ -20,3 +20,11 @@ a) Para homens o peso ideal é igual a 72,7 multiplicados pela altura, subtraíd
 por 58.
 b) Para mulheres o peso ideal é igual a 62,1 multiplicados pela altura, subtraídos
 por 44,7.
+
+Exercício 5: Faça um programa que informe a quantidade total de calorias a partir da escolha
+do usuário, que deve informar o prato típico e a bebida. A tabela de calorias encontra-
+se a seguir.
+      Prato             |            Bebida
+Italiano 750 cal        |       Chá 30 cal
+Japonês 324 cal         |       Suco de laranja 80 cal
+Salvadorenho 545 cal    |       Refrigerante 90 cal
