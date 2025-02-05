@@ -12,3 +12,11 @@ Acima de 65 anos R$ 170,00
 Exercício 3: Construa um programa que receba a idade de uma pessoa e identifique sua classe
 eleitoral: não eleitor (menor que 16 anos de idade), eleitor obrigatório (entre 18 e
 65 anos) e eleitor facultativo (entre 16 e 18 e maior que 65).
+
+Exercício 4: De acordo com uma tabela médica, o peso ideal está relacionado com a altura e o
+sexo de uma pessoa. Elabore um algoritmo que receba altura e sexo de uma pessoa
+e calcule e imprima seu peso ideal, sabendo que:
+a) Para homens o peso ideal é igual a 72,7 multiplicados pela altura, subtraídos
+por 58.
+b) Para mulheres o peso ideal é igual a 62,1 multiplicados pela altura, subtraídos
+por 44,7.
