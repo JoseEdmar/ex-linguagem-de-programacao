@@ -30,3 +30,8 @@ Exercício 6: É comum, em uma aplicação, ter de determinar quais números sã
 menor, dentre todos os valores de um conjunto de dados informados pelo usuário.
 Assim sendo, escreva um programa que receba cinco números inteiros e apresente
 o maior e o menor entre todos eles.
+
+Exercício 7: Em algumas situações, em uma aplicação, é preciso determinar quais são os números
+múltiplos de um ou mais valores, dentre todos os valores de um conjunto
+de dados. Dessa forma, faça um programa que receba, do usuário, um número e
+informe se ele é divisível por três ou por sete.
