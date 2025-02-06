@@ -7,11 +7,9 @@ De 30 a 45 anos R$ 90,00
 De 46 a 65 anos R$ 130,00
 Acima de 65 anos R$ 170,00'''
 
-# Recebe as informações
 nome = str(input("Qual é o seu nome? "))
 idade = int(input("Quantos anos você tem? "))
 
-# Imprime a resposta correspondente a idade
 if idade <=18:
   print("Nome:", nome,".", idade,"Anos,", "Valor do plano de saúde R$ 50,00")
 elif idade >= 19 and idade <= 29:

@@ -25,3 +25,8 @@ Exercício 5: Faça um programa que informe a quantidade total de calorias a par
 do usuário, que deve informar o prato típico e a bebida. A tabela de calorias encontra-
 se a seguir.
 Pratos: Italiano 750 cal, Japonês 324 cal e Salvadorenho 545 cal. Bebidas: Chá 30 cal, Suco de laranja 80 cal e Refrigerante 90 cal.
+
+Exercício 6: É comum, em uma aplicação, ter de determinar quais números são o maior ou o
+menor, dentre todos os valores de um conjunto de dados informados pelo usuário.
+Assim sendo, escreva um programa que receba cinco números inteiros e apresente
+o maior e o menor entre todos eles.
