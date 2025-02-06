@@ -35,3 +35,7 @@ Exercício 7: Em algumas situações, em uma aplicação, é preciso determinar 
 múltiplos de um ou mais valores, dentre todos os valores de um conjunto
 de dados. Dessa forma, faça um programa que receba, do usuário, um número e
 informe se ele é divisível por três ou por sete.
+
+Exercício 8:Considere uma aplicação que necessita de um calendário embutido. Assim sendo,
+construa um programa que, dado um número inteiro, informe o mês correspondente,
+por extenso.
