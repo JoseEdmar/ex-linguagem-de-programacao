@@ -39,3 +39,12 @@ informe se ele é divisível por três ou por sete.
 Exercício 8:Considere uma aplicação que necessita de um calendário embutido. Assim sendo,
 construa um programa que, dado um número inteiro, informe o mês correspondente,
 por extenso.
+
+Exercício 9: Elabore um programa que receba o salário de um funcionário e o código do cargo e
+apresente o cargo, o valor do aumento e o novo salário. A tabela a seguir apresenta
+os respectivos código, cargo e percentual do aumento para cada tipo de colaborador.
+Código Cargo Percentual do aumento
+1 Servente 40%
+2 Pedreiro 35%
+3 Mestre de obras 20%
+4 Técnico de segurança 10%
