@@ -17,3 +17,4 @@ elif sexo == "F":
   print("Seu peso ideal é:", F)
 else:
   print("Comando inválido")
+  
