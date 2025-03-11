@@ -48,3 +48,11 @@ Código Cargo Percentual do aumento
 2 Pedreiro 35%
 3 Mestre de obras 20%
 4 Técnico de segurança 10%
+
+Exercício 10: Faça um programa que receba o código do estado de origem da carga de um caminhão,
+o peso da carga em toneladas e o código dela.
+Código do estado Taxa de imposto      |      Código da carga Preço por quilo      
+1 20%                                 |       10 a 20 180
+2 15%                                 |       21 a 30 120
+3 10%                                 |       31 a 40 230
+4 5%                                  |
