@@ -3,7 +3,7 @@
 num = int(input("Dígite um número: "))
 
 if num % 5 == 0:
-  print("o número é divisível por 5")
+  print("o número", num, "é divisível por 5")
 else:
-  print("O número não é divisível por 5")
+  print("O número", num, "não é divisível por 5")
   
