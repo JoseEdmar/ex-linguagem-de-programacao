@@ -7,3 +7,4 @@ if num % 5 == 0:
 else:
   print("O número", num, "não é divisível por 5")
   
+  
