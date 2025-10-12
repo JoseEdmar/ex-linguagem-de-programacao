@@ -1,21 +1,26 @@
 '''Construa um programa que efetue a leitura das quatro notas de 20 alunos, calcule e 
 mostre a média de cada aluno e a média da turma.'''
 
-alunos = []
-soma_medias = 0
+turma = []
+soma_medias_turma = 0
 
-for i in range(1, 21):
-    nome = input(f"Digite o nome do {i}° aluno: ")
-    notas = []
-    for j in range(1, 5):
-        nota = float(input(f"Digite a {j}° nota do aluno {nome}: "))
-        notas.append(nota)
-    media = sum(notas) / 4
-    soma_medias += media
-    alunos.append({'nome': nome, 'notas': notas, 'media': media})
+for i in range(1, 3):
+    aluno = {}
+    aluno['nome'] = input(f"Digite o nome do {i}° aluno: ")
+    aluno['notas'] = []
+    
+    for j in range(1, 3):
+        nota = float(input(f"Digite a {j}° nota do aluno {aluno['nome']}: "))
+        aluno['notas'].append(nota)
+    
+    turma.append(aluno)
 
-for aluno in alunos:
-    print(f"A média de {aluno['nome']} é {aluno['media']:.2f}")
+print("\n--- Médias individuais ---")
+for aluno in turma:
+    media_aluno = sum(aluno['notas']) / len(aluno['notas'])
+    soma_medias_turma += media_aluno
+    print(f"A média do aluno {aluno['nome']} é {media_aluno:.2f}")
 
-media_turma = soma_medias / 20
-print(f"A média da turma é {media_turma:.2f}")
+media_turma = soma_medias_turma / len(turma)
+
+print(f"\nA média da turma é: {media_turma:.2f}")
