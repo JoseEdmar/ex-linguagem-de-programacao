@@ -19,4 +19,3 @@ for aluno in alunos:
 
 media_turma = soma_medias / 20
 print(f"A média da turma é {media_turma:.2f}")
-
