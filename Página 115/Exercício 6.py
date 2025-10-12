@@ -4,12 +4,12 @@ mostre a média de cada aluno e a média da turma.'''
 turma = []
 soma_medias_turma = 0
 
-for i in range(1, 3):
+for i in range(1, 21):
     aluno = {}
     aluno['nome'] = input(f"Digite o nome do {i}° aluno: ")
     aluno['notas'] = []
     
-    for j in range(1, 3):
+    for j in range(1, 5):
         nota = float(input(f"Digite a {j}° nota do aluno {aluno['nome']}: "))
         aluno['notas'].append(nota)
     
